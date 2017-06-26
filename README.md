@@ -1,4 +1,5 @@
 # Full Stack Glossary
+=======
 
 ## HTML / XML
 
@@ -7,3 +8,5 @@
 * Self Closing Tag === has slash in openning '< />'
 * Value === Anything inside an element
 * D.O.M. === Document Object Model
+
+yo
