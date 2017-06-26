@@ -2,8 +2,8 @@
 
 ## HTML / XML
 
-* Openning Tag === no slash '<code>'
-* Closing Tag === slash '</ code>'
-* Self Closing Tag === has slash in openning '<code/>'
+* Openning Tag === no slash '< >'
+* Closing Tag === slash '</ >'
+* Self Closing Tag === has slash in openning '< />'
 * Value === Anything inside an element
 * D.O.M. === Document Object Model
