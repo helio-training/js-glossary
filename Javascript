@@ -1,0 +1,2 @@
+* **.export()** - visible to the outside
+* **.import()** - use public information from another file
